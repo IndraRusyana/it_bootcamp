@@ -1,0 +1,24 @@
+installation github
+
+buat akun/login
+
+git clone
+mengambil program di remote ke local
+
+git add
+keterangan ubah program di local
+
+git commit
+kumpulan dari program yang telah diubah
+
+git pull
+menarik program dari remote ke local
+
+git push
+mendorong program dari local ke remote
+
+repositories
+tempat kumpulan program
+
+konfigurasi dbms(mysql)
+CRUD

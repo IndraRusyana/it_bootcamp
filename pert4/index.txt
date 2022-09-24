@@ -1,0 +1,15 @@
+belajar html
+struktur html
+
+belajar css
+https://colorhunt.co/ => web color sceme
+
+konfigurasi git to github
+git config --global user.name ""
+git config --global user.email ""
+git init
+
+create new repo in github
+copy link repo
+git remote add origin linkrepo
+git remote -v
