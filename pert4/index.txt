@@ -13,3 +13,14 @@ create new repo in github
 copy link repo
 git remote add origin linkrepo
 git remote -v
+
+git add .
+git branch
+git commit -m "commit pertama"
+git push origin master
+
+tugas minggu depan
+bikin project 
+clone kode dari github
+lengkapi kode yg kurang
+push ke github kembali
